@@ -7,7 +7,7 @@ This practicum covers some basic aspects of Immune Repertoire Sequencing (RepSeq
 - Repertoire overlap analysis
 - Annotation of antigen-specific TCR sequences
 
-The workflow is fully carried out in accordance with [this](https://github.com/mikeraiko/repseq-annotation-tutorial) tutorial.
+The workflow is fully carried out in accordance with [this](https://github.com/antigenomics/repseq-annotation-tutorial) tutorial.
 
 ## Usage
 
